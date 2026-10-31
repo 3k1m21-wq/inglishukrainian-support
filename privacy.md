@@ -17,9 +17,11 @@ iNglishUkrainian does **not**:
 
 ## Audio and Microphone Access
 
-The app may request access to the microphone for speaking and pronunciation practice.
+iNglishUkrainian may request access to the microphone for speech recognition and speaking practice.
 
-Audio may be processed as part of speech recognition. The way this processing takes place depends on the device and speech recognition configuration.
+The app uses Apple's Speech framework to convert spoken words into text. Depending on device capabilities, language availability and recognition settings, speech recognition may be processed on the device or through Apple's speech recognition services.
+
+The app does not itself record or retain audio recordings as part of its normal speech recognition workflow.
 
 ## Third-Party Services
 
