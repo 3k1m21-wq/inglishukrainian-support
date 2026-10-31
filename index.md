@@ -1,6 +1,6 @@
-# iNglishSpan – App Support
+# iNglishUkrainian – App Support
 
-Thank you for using **iNglishSpan**, the English–Spanish learning app designed to help you speak naturally and confidently.
+Thank you for using **iNglishUkrainian**, the English–Ukrainian learning app designed to help you communicate naturally and confidently.
 
 ---
 
@@ -8,29 +8,28 @@ Thank you for using **iNglishSpan**, the English–Spanish learning app designed
 
 If you need help, have questions, or want to report a problem, please contact us:
 
-📧 **Email:** support@inglishspan.app
-
-(If you don’t own this domain yet, you can temporarily use a Gmail address like: inglishspan@gmail.com)
+📧 **Email:** 3k1m21@gmail.com
 
 We aim to respond within 48 hours.
 
 ---
 
-## About iNglishSpan
+## About iNglishUkrainian
 
-iNglishSpan helps you learn English or Spanish through real-life conversations and clear pronunciation.
+iNglishUkrainian helps you learn English and Ukrainian through real-life conversations, practical exercises and pronunciation practice.
+Price: Available as a one-time purchase. See the App Store for the price in your region.
 
-• Native voice audio  
-• Everyday phrases and situations  
-• Beginner-friendly and practical  
-• Learn at your own pace  
-
-Price: **€2.99 (one-time purchase)**
+- Native voice audio
+- Everyday phrases and situations
+- English and Ukrainian learning support
+- Cambridge English exam practice from B1 Preliminary to C2 Proficiency
+- Ukrainian language exam practice from B1 to C2
+- Learn at your own pace
 
 ---
 
 ## Privacy
 
-iNglishSpan does not collect personal data or track users.
+iNglishUkrainian respects your privacy.
 
-If this changes in future updates, this page will be updated accordingly.
+Please refer to our [Privacy Policy](privacy.html) for information about data collection, microphone usage and local storage.
