@@ -4,30 +4,36 @@ Last updated: October 2026
 
 ## Overview
 
-iNglishUkrainian respects your privacy. This app is designed to help you learn English and Ukrainian while protecting your personal information.
+iNglishUkrainian respects your privacy. This policy explains how the app uses device features and third-party services to provide language-learning, translation and speech-recognition features.
 
 ## Data Collection
 
 iNglishUkrainian does **not**:
-- Collect personal data for its own purposes
 - Require account registration
+- Collect personal data for its own purposes
 - Track users
-- Use analytics or advertising services
-- Access contacts, photos, or location
+- Use third-party analytics or advertising services
+- Access contacts, photos or location
 
 ## Audio and Microphone Access
 
-iNglishUkrainian may request access to the microphone for speech recognition and speaking practice.
+iNglishUkrainian may request access to the microphone and speech recognition for voice input and speaking practice.
 
-The app uses Apple's Speech framework to convert spoken words into text. Depending on device capabilities, language availability and recognition settings, speech recognition may be processed on the device or through Apple's speech recognition services.
+The app uses Apple's Speech framework to convert spoken words into text. Depending on device capabilities, language availability and recognition settings, speech recognition may take place on the device or use Apple's speech recognition servers.
 
-The app does not itself record or retain audio recordings as part of its normal speech recognition workflow.
+When Apple's servers are used, audio captured for speech recognition is sent to Apple for processing. The app's normal speech-recognition workflow does not save microphone audio as audio recordings.
 
-## Third-Party Services
+## Translation and Third-Party Services
 
-iNglishUkrainian does not use third-party analytics or advertising services.
+The app uses Google's ML Kit Translation to translate between English and Ukrainian.
 
-## Children’s Privacy
+ML Kit downloads the required language models to the device. Once the models are downloaded, translation is performed on the device and does not require sending the text being translated to Google's servers.
+
+An internet connection may be required to download the language models.
+
+The app does not use third-party analytics or advertising services.
+
+## Children's Privacy
 
 iNglishUkrainian does not knowingly collect personal information from children under 13.
 
