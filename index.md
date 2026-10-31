@@ -17,7 +17,8 @@ We aim to respond within 48 hours.
 ## About iNglishUkrainian
 
 iNglishUkrainian helps you learn English and Ukrainian through real-life conversations, practical exercises and pronunciation practice.
-Price: Available as a one-time purchase. See the App Store for the price in your region.
+
+**Price:** Available as a one-time purchase. See the App Store for the price in your region.
 
 - Native voice audio
 - Everyday phrases and situations
@@ -32,4 +33,4 @@ Price: Available as a one-time purchase. See the App Store for the price in your
 
 iNglishUkrainian respects your privacy.
 
-Please refer to our [Privacy Policy](privacy.html) for information about data collection, microphone usage and local storage.
+Please refer to our [Privacy Policy](privacy.html) for information about microphone access, speech recognition, translation services and data handling.
